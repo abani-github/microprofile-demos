@@ -31,7 +31,5 @@ public class CustomConfigSource implements ConfigSource {
     public String getName() {
         return CustomConfigSource.class.getName();
     }
-
-    
     
 }
